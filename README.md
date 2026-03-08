@@ -17,6 +17,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3714-longest-balanced-substring-ii) |
@@ -119,6 +121,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
@@ -234,6 +237,7 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
