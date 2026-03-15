@@ -39,6 +39,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -156,6 +157,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
@@ -272,4 +274,8 @@
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
