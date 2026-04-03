@@ -42,6 +42,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3637-trionic-array-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -83,6 +84,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3454-separate-squares-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Segment Tree
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Enumeration
 |  |
 | ------- |
