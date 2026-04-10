@@ -47,6 +47,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Dynamic Programming
 |  |
 | ------- |
