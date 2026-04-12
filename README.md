@@ -84,6 +84,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -163,6 +164,7 @@
 | [0696-count-binary-substrings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0761-special-binary-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
