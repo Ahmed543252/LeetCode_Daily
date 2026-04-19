@@ -20,6 +20,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1975-maximum-matrix-sum) |
@@ -212,6 +213,7 @@
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3454-separate-squares-ii) |
@@ -339,6 +341,7 @@
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0696-count-binary-substrings) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Rolling Hash
 |  |
 | ------- |
