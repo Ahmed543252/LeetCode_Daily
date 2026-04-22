@@ -28,6 +28,7 @@
 | [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2573-find-the-string-with-lcp) |
@@ -190,6 +191,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -373,4 +375,8 @@
 | ------- |
 | [1622-fancy-sequence](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2069-walking-robot-simulation-ii) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
