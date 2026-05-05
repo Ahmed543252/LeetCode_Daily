@@ -376,6 +376,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Rolling Hash
@@ -411,4 +412,8 @@
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
