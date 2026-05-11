@@ -40,6 +40,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2615-sum-of-distances) |
+| [2639-separate-the-digits-in-an-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2639-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -358,6 +359,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2639-separate-the-digits-in-an-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2639-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
