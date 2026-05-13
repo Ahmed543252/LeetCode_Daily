@@ -25,6 +25,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1861-rotating-the-box) |
@@ -100,6 +101,7 @@
 | [0874-walking-robot-simulation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -303,6 +305,7 @@
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2906-construct-product-matrix) |
