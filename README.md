@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0085-maximal-rectangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0396-rotate-function) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0874-walking-robot-simulation) |
@@ -262,6 +263,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
