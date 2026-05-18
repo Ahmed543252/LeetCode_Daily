@@ -20,6 +20,7 @@
 | [1390-four-divisors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1428-jump-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1447-jump-game-iv) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1447-jump-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1447-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
@@ -206,6 +208,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1428-jump-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1447-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
