@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0085-maximal-rectangle) |
@@ -277,6 +278,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0744-find-smallest-letter-greater-than-target) |
