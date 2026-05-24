@@ -23,6 +23,7 @@
 | [1428-jump-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1447-jump-game-iv) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1466-jump-game-v](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1466-jump-game-v) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -139,6 +140,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1466-jump-game-v](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1466-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -307,6 +309,7 @@
 | [0761-special-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1466-jump-game-v](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1466-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
