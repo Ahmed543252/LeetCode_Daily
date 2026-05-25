@@ -144,6 +144,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2001-jump-game-vii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2001-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -252,6 +253,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
+| [2001-jump-game-vii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2001-jump-game-vii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -334,6 +336,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2001-jump-game-vii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2001-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -364,6 +367,7 @@
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2001-jump-game-vii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2001-jump-game-vii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
 |  |
