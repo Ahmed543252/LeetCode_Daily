@@ -122,6 +122,7 @@
 | [2892-check-if-array-is-good](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2892-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -263,6 +264,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3714-longest-balanced-substring-ii) |
