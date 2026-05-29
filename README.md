@@ -73,6 +73,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3637-trionic-array-i) |
@@ -102,6 +103,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
