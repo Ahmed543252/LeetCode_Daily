@@ -44,6 +44,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2245-destroying-asteroids](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2245-destroying-asteroids) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -167,6 +168,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2245-destroying-asteroids](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2245-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
@@ -324,6 +326,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2245-destroying-asteroids](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2245-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2463-minimum-total-distance-traveled) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2892-check-if-array-is-good](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2892-check-if-array-is-good) |
