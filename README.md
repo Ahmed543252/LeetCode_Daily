@@ -93,6 +93,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [4005-maximum-total-subarray-value-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4005-maximum-total-subarray-value-i) |
 ## Math
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [4005-maximum-total-subarray-value-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4005-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
 | ------- |
