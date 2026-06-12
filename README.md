@@ -92,6 +92,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4005-maximum-total-subarray-value-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4007-maximum-total-subarray-value-ii) |
@@ -117,6 +118,7 @@
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3783-mirror-distance-of-an-integer) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
@@ -170,6 +172,7 @@
 | [3660-jump-game-ix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
@@ -225,6 +228,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1382-balance-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -238,6 +242,7 @@
 | [1428-jump-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1428-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -399,6 +404,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Sliding Window
 |  |
 | ------- |
