@@ -96,6 +96,7 @@
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4005-maximum-total-subarray-value-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4216-weighted-word-mapping](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4216-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -299,6 +300,7 @@
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3714-longest-balanced-substring-ii) |
+| [4216-weighted-word-mapping](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4216-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -446,6 +448,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [4216-weighted-word-mapping](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4216-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
