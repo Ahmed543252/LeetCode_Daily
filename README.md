@@ -481,6 +481,7 @@
 | [0696-count-binary-substrings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1861-rotating-the-box) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2634-minimum-common-value](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2634-minimum-common-value) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -522,6 +523,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0061-rotate-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
