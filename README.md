@@ -300,6 +300,7 @@
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3714-longest-balanced-substring-ii) |
+| [3931-process-string-with-special-operations-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3931-process-string-with-special-operations-i) |
 | [4216-weighted-word-mapping](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4216-weighted-word-mapping) |
 ## Stack
 |  |
@@ -448,6 +449,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3931-process-string-with-special-operations-i) |
 | [4216-weighted-word-mapping](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4216-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
