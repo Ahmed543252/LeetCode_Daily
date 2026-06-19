@@ -32,6 +32,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [1833-find-the-highest-altitude](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1833-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1861-rotating-the-box) |
@@ -381,6 +382,7 @@
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [1833-find-the-highest-altitude](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1833-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2001-jump-game-vii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2001-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2615-sum-of-distances) |
