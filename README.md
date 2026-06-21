@@ -40,6 +40,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1914-cyclically-rotating-a-grid) |
+| [1961-maximum-ice-cream-bars](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1961-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -185,6 +186,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1961-maximum-ice-cream-bars](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1961-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2245-destroying-asteroids) |
@@ -358,6 +360,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1961-maximum-ice-cream-bars](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1961-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2245-destroying-asteroids](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2245-destroying-asteroids) |
@@ -539,4 +542,8 @@
 |  |
 | ------- |
 | [3435-block-placement-queries](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3435-block-placement-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
