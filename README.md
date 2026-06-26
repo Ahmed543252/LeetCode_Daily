@@ -99,6 +99,7 @@
 | [4005-maximum-total-subarray-value-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4005-maximum-total-subarray-value-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4216-weighted-word-mapping](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4216-weighted-word-mapping) |
 ## Math
 |  |
@@ -157,6 +158,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -353,6 +355,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3719-longest-balanced-subarray-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -407,6 +410,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3719-longest-balanced-subarray-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -477,6 +481,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3719-longest-balanced-subarray-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -561,4 +566,5 @@
 |  |
 | ------- |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4075-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
