@@ -71,6 +71,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-transformed-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3379-transformed-array) |
@@ -146,6 +147,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2892-check-if-array-is-good](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2892-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3488-closest-equal-element-queries) |
@@ -386,6 +388,7 @@
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
