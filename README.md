@@ -47,6 +47,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2245-destroying-asteroids](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -304,6 +305,7 @@
 | [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
 | [2001-jump-game-vii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2001-jump-game-vii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2573-find-the-string-with-lcp) |
