@@ -85,6 +85,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3634-minimum-removals-to-balance-array) |
@@ -238,6 +239,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Tree
 |  |
@@ -273,6 +275,7 @@
 | [1447-jump-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1447-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
@@ -453,6 +456,7 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
 |  |
@@ -460,12 +464,14 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Simulation
 |  |
