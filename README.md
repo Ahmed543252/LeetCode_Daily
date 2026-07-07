@@ -137,6 +137,7 @@
 | [3964-number-of-zigzag-arrays-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |
