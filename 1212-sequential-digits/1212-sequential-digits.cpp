@@ -13,13 +13,10 @@ public:
             auto f = q.front();
             q.pop();
             int x = f % 10;
-            if (f < 1e9 and x!=9) {
+            if (f < 1e9 and x != 9) {
                 f = (f * 10) + (x + 1);
-                if (vis.find(f) == vis.end()) {
-                    q.push(f);
-                    me.push_back(f);
-                    vis[f] = 1;
-                }
+                q.push(f);
+                me.push_back(f);
             }
         }
         sort(me.begin(), me.end());
