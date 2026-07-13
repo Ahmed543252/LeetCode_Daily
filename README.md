@@ -427,6 +427,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1212-sequential-digits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3546-equal-sum-grid-partition-i) |
