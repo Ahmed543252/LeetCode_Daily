@@ -140,6 +140,7 @@
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3964-number-of-zigzag-arrays-ii) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -621,6 +622,7 @@
 | ------- |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Binary Indexed Tree
 |  |
 | ------- |
