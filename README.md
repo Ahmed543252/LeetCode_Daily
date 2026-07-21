@@ -357,6 +357,7 @@
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3714-longest-balanced-substring-ii) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3939-process-string-with-special-operations-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -448,6 +449,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3805-maximize-active-section-with-trade-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
