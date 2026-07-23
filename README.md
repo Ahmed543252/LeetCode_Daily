@@ -105,6 +105,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -141,6 +142,7 @@
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3783-mirror-distance-of-an-integer) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3964-number-of-zigzag-arrays-ii) |
@@ -488,6 +490,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
