@@ -105,6 +105,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
@@ -142,6 +143,7 @@
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3783-mirror-distance-of-an-integer) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -452,6 +454,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
@@ -490,6 +493,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
