@@ -147,6 +147,7 @@
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3859-maximum-product-of-two-digits) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -442,6 +443,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [3859-maximum-product-of-two-digits](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3859-maximum-product-of-two-digits) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
