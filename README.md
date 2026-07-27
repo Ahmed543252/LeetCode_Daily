@@ -30,6 +30,7 @@
 | [1466-jump-game-v](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1466-jump-game-v) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -427,6 +428,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1466-jump-game-v](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1466-jump-game-v) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -521,6 +523,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
