@@ -364,6 +364,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3714-longest-balanced-substring-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3939-process-string-with-special-operations-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -444,6 +445,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3859-maximum-product-of-two-digits) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -661,6 +663,7 @@
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1961-maximum-ice-cream-bars) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
