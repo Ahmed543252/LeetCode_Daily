@@ -137,6 +137,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -236,6 +237,7 @@
 | [2245-destroying-asteroids](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2573-find-the-string-with-lcp) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -358,6 +360,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
