@@ -176,6 +176,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2892-check-if-array-is-good](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2892-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -238,6 +239,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2573-find-the-string-with-lcp) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -361,6 +363,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -446,6 +449,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2892-check-if-array-is-good](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2892-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -586,6 +590,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1297-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2833-furthest-point-from-origin) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Backtracking
