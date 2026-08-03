@@ -30,6 +30,7 @@
 | [1447-jump-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1447-jump-game-iv) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1466-jump-game-v](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1466-jump-game-v) |
+| [1522-stone-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1522-stone-game-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -134,6 +135,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1390-four-divisors) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1522-stone-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1522-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -209,6 +211,7 @@
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1466-jump-game-v](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1466-jump-game-v) |
+| [1522-stone-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1522-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -693,4 +696,5 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
