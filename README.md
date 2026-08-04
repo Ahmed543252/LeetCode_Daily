@@ -120,6 +120,7 @@
 | [4007-maximum-total-subarray-value-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4107-find-missing-elements](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4107-find-missing-elements) |
 | [4216-weighted-word-mapping](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4216-weighted-word-mapping) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -198,6 +199,7 @@
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4107-find-missing-elements](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4107-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -465,6 +467,7 @@
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3859-maximum-product-of-two-digits) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [4107-find-missing-elements](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
