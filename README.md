@@ -225,6 +225,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3660-jump-game-ix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -253,6 +254,7 @@
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4005-maximum-total-subarray-value-i) |
@@ -380,6 +382,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3714-longest-balanced-substring-ii) |
@@ -626,6 +629,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2634-minimum-common-value](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2634-minimum-common-value) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
