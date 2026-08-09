@@ -19,6 +19,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1200-minimum-absolute-difference) |
 | [1222-remove-covered-intervals](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1234-number-of-paths-with-max-score) |
+| [1240-stone-game-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -133,6 +134,7 @@
 | [0486-predict-the-winner](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0909-stone-game](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1240-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1390-four-divisors) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -210,6 +212,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0909-stone-game](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0909-stone-game) |
 | [1234-number-of-paths-with-max-score](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1234-number-of-paths-with-max-score) |
+| [1240-stone-game-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1240-stone-game-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -491,6 +494,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1240-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1833-find-the-highest-altitude) |
@@ -708,5 +712,14 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1522-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1240-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
