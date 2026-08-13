@@ -62,6 +62,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -378,6 +379,7 @@
 | [2001-jump-game-vii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2001-jump-game-vii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2573-find-the-string-with-lcp) |
@@ -440,6 +442,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1622-fancy-sequence) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3435-block-placement-queries](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3435-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3719-longest-balanced-subarray-i) |
@@ -665,6 +668,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
 |  |
