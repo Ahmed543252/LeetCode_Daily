@@ -193,6 +193,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -390,6 +391,7 @@
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -548,6 +550,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2001-jump-game-vii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2001-jump-game-vii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
 |  |
