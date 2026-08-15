@@ -121,6 +121,7 @@
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4005-maximum-total-subarray-value-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4107-find-missing-elements](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4107-find-missing-elements) |
@@ -542,6 +543,7 @@
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
 | ------- |
