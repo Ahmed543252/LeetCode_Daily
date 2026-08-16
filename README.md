@@ -58,6 +58,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
 | [2245-destroying-asteroids](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -148,6 +149,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -258,6 +260,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1961-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
 | [2245-destroying-asteroids](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2573-find-the-string-with-lcp) |
@@ -626,6 +629,7 @@
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1297-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2833-furthest-point-from-origin) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
@@ -729,20 +733,24 @@
 | [1240-stone-game-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1240-stone-game-ii) |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1240-stone-game-ii) |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
