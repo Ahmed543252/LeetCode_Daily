@@ -109,6 +109,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -203,6 +204,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3719-longest-balanced-subarray-i) |
