@@ -31,6 +31,7 @@
 | [1447-jump-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1447-jump-game-iv) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1466-jump-game-v](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1466-jump-game-v) |
+| [1487-cinema-seat-allocation](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1487-cinema-seat-allocation) |
 | [1522-stone-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1522-stone-game-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -186,6 +187,7 @@
 | [1447-jump-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1487-cinema-seat-allocation](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1487-cinema-seat-allocation) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -258,6 +260,7 @@
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1382-balance-a-binary-search-tree) |
+| [1487-cinema-seat-allocation](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1487-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -544,6 +547,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1487-cinema-seat-allocation](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1487-cinema-seat-allocation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
