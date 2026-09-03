@@ -132,6 +132,7 @@
 | [4216-weighted-word-mapping](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4216-weighted-word-mapping) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
