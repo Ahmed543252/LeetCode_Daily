@@ -134,6 +134,7 @@
 | [4256-construct-uniform-parity-array-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4285-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -541,6 +542,7 @@
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4284-smallest-stable-index-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4285-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
